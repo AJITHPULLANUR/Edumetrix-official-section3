@@ -1,0 +1,54 @@
+.cartpagefull{
+  width: 100%;
+  height: 600px;
+  background-color: aqua;
+}
+.cartnavbar{
+  width: 100%;
+  height: 120px;
+  background-color: blue;
+  display: flex;
+}
+.cartlogotext{
+  width: 70%;
+  height: 120px;
+  /* background-color: chartreuse; */
+  display: flex;
+  justify-content: start;
+  align-items: center;
+
+}
+.cartaccount{
+  width: 30%;
+  height: 120px;
+  /* background-color: darkgreen; */
+  display: flex;
+  justify-content: end;
+  align-items: center;
+
+}
+.carthead{
+  font-size: 28px;
+}
+.cartdivlogo{
+  width: 500px;
+  height: 120px;
+  /* background-color: darkred; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.accountofcart{
+  width: 100px;
+  height: 120px;
+  /* background-color: crimson; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+.homespan{
+  font-size: 12px;
+  font-weight: bold;
+}
